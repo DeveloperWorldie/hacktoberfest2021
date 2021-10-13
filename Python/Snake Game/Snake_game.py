@@ -5,7 +5,7 @@ pygame.init()
 
 # Colors
 white = (255, 255, 255) # rgb format
-red = (255, 0, 0)
+red = (255, 1, 0)
 black = (0, 0, 0)
 
 # Creating window
